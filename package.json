@@ -63,7 +63,7 @@
     "prettier": "^2.8.8",
     "sass": "^1.85.0",
     "start-server-and-test": "^2.0.10",
-    "vite": "^4.5.9",
+    "vite": "^7.1.11",
     "vite-plugin-istanbul": "^5.0.0",
     "vite-plugin-mkcert": "^1.17.6",
     "vite-plugin-pwa": "^0.14.7"
